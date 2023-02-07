@@ -1,1 +1,1 @@
-Welcome to my-git project
+Welcome to my main repo
